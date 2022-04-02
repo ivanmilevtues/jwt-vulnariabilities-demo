@@ -1,0 +1,29 @@
+name: jwt-demo
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2021.10.8=h5b45459_0
+  - certifi=2021.10.8=py38haa244fe_2
+  - click=7.1.2=py_0
+  - flask=1.1.2=py_0
+  - flask-sqlalchemy=2.5.1=pyhd8ed1ab_0
+  - greenlet=1.1.2=py38h885f38d_2
+  - itsdangerous=1.1.0=py_0
+  - jinja2=2.11.2=py_0
+  - markupsafe=1.1.1=py38he774522_0
+  - openssl=1.1.1n=h8ffe710_0
+  - pip=21.2.2=py38haa95532_0
+  - pyjwt=2.3.0=pyhd8ed1ab_1
+  - python=3.8.13=h6244533_0
+  - python_abi=3.8=2_cp38
+  - setuptools=58.0.4=py38haa95532_0
+  - sqlalchemy=1.4.34=py38h294d835_0
+  - sqlite=3.38.2=h2bbff1b_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - werkzeug=1.0.1=py_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - wincertstore=0.2=py38haa95532_2
+prefix: C:\Users\Ivan\anaconda3\envs\jwt-demo
